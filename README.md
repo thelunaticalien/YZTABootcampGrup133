@@ -24,6 +24,10 @@ Bu proje, kullanıcıların kullandığı giyilebilir teknolojilerden gelen veri
   
 ![Screenshot_34](https://github.com/user-attachments/assets/c62feb9d-b31b-47ce-9dab-8f12c05da00e)
 
+- Trello ScreenShot:
+![image](https://github.com/user-attachments/assets/c31099a5-d31c-4bb8-be03-232096875ad7)
+
+
 
 ### Daily Scrum ve İletişim:
 - Günlük iletişim WhatsApp üzerinden sürdürüldü.
