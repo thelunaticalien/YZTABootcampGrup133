@@ -55,3 +55,51 @@ Bu proje, kullanıcıların kullandığı giyilebilir teknolojilerden gelen veri
 - Sprint başına toplantı sayısı arttırılmalı ve süreç hızlanmalı.
 - Görevler parça parça ve daha kısa sürede halledilmeli
 - Yükümüzün fazlalığı kabullenilmeli
+
+# Sprint 2
+
+### Sprint Başlangıcı:
+İkinci sprint dönemine girerken ekip, ilk sprintte belirlenen temel fikir üzerinden ilerlemeye başladı. Ekip içi iletişim aksilikler olsa da daha fazla oturtulmaya çalışıldı. Projenin zorluğu konusunda olası senaryolar tartışıldı. Kriz senaryoları masaya yatırıldı.
+
+### Sprint 2 Hedefleri ve Yapılanlar:
+- Proje için yeni fikirler üretildi, öneriler tartışıldı. (Tamamlandı) ✅ (20p)-
+- Veri setlerinin analizi yapıldı ve mevcut veri setinin zorlukları üzerine görüşüldü. (Tamamlandı) ✅ (20p)
+- Yapay zeka seçimi konusunda tartışmalar yapıldı ✅ (15p)
+- Proje Kapsamı yeniden değerlendirildi ve ek senaryolar düşünüldü. ✅ (15p)
+- Geliştirme ortamı hakkında karar alınmaya başlandı. (Tamamlanılmadı) (10p)
+- Birden fazla toplantı yapıldı (Tamamlanamadı) (10p)
+
+(Hedeflenen 100 puan üzerinden 80 puan tamamlanabildi.)
+
+### Sprint Review:
+Bu sprintte proje fikri hakkında biraz daha detaylandırlmalar yapıldı ve kullanılıcak verilerin kişilerin hayatına ne yönde katkılar yaptığı hakkında fikirler edinildi. 
+Kullanılacak veri setinde kullanılması gereken veriler incelendi. 
+Verinin yaşam döngüsüne ait adımlar incelendi. Bu tartışmalar sonucunda yedek fikirler düşünüldü.
+
+### Daily Scrum ve İletişim:
+- Günlük iletişim WhatsApp üzerinden sürdürüldü.
+- Whatsapp üzerinden yazışmalar usulüyle konuşuldu.
+- Kaynak setler tartışıldı
+- Yedek projeler masaya yatırıldı.
+
+### Kullanılan Araçlar ve Kararlar:
+- Kaggle tarandı.
+- Projenin seçiminde ki kararsızlık devam etti ve iki proje incelendi.
+- Yapay zeka destekleri araştırılıyor.
+
+### Sprint Retrospective 
+#### Ne İyi Gitti?
+- Ekip içinde fikir alışverişi arttı, proje fikrinde ilerlendi.
+- Veri setiyle ilgili potansiyel problemler erken fark edildi.
+- Eldeki senaryo sayısı arttırıldı.
+- Kriz durumlarına önlem alındı.
+#### Neler Daha İyi Olabilirdi?
+- Teknik bilgiler daha hızlı araştırılabilirdi.
+- Konu hakkında bilgiler derinleşebilirdi.
+- Veri seti sorunları incelenebilirdi.
+- Son sprinte daha az sıkıştırma yapılabilirdi.
+#### Gelecek Sprintler İçin Aksiyonlar:
+- Proje olasılıklarının çözülüp teslimin yapılması
+- Video çekiminin bitirilmesi
+- Model seçilmeli ve bitirilmeli.
+
