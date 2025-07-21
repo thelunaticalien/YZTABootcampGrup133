@@ -3,7 +3,7 @@ Academy Bootcamp Projesi için 133 numaralı grubun proje Reposudur. Detaylara k
 
 # Sprint 1 
 
-### Sprint Başlangıcı:
+### Sprint Notları:
 Grubumuz takım değişikliği sonucunda bir araya gelmesinden kaynaklı olarak Sprint 1 ortasında oluşturuldu. Ayrıca ekipteki iki kişinin eksikliği nedeniyle, sprintin ilk bölümünde beklemeler sonucunda sadece 3 kişilik bir ekiple ilerlenebildi. Bunun verdiği gecikmelerden dolayı ekip sadece bir kez toplantı yapabildi. Yollarına üç kişi devam etmek zorunda olduğu karar verildi ve grupta yapay zeka öğrencisi olmaması eksikliği üzerine ilk hafta araştırmalara karar verildi. Projenin temel taslağı araştırılmak üzerine oluşturuldu.
 
 ### Proje Özeti:
