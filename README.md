@@ -81,7 +81,9 @@ Verinin yaşam döngüsüne ait adımlar incelendi. Bu tartışmalar sonucunda y
 - Whatsapp üzerinden yazışmalar usulüyle konuşuldu.
 - Kaynak setler tartışıldı
 - Yedek projeler masaya yatırıldı.
-- ![Uploading image.png…]()
+- Aşağıda, WhatsApp konuşması yer almaktadır:
+![WhatsApp Görseli](images/chat-screenshot.png)
+
 
 
 ### Kullanılan Araçlar ve Kararlar:
