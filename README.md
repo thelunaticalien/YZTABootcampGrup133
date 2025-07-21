@@ -82,7 +82,7 @@ Verinin yaşam döngüsüne ait adımlar incelendi. Bu tartışmalar sonucunda y
 - Kaynak setler tartışıldı
 - Yedek projeler masaya yatırıldı.
 - Aşağıda, WhatsApp konuşması yer almaktadır:
-![WhatsApp Görseli](images/75fcf57c-8400-464d-b703-47e4918536f2.png)
+<img width="1333" height="830" alt="Image" src="https://github.com/user-attachments/assets/10d1e630-6366-4301-8a45-54a0521628a2" />
 
 
 
