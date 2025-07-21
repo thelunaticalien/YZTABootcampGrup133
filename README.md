@@ -84,7 +84,8 @@ Verinin yaşam döngüsüne ait adımlar incelendi. Bu tartışmalar sonucunda y
 - Aşağıda, WhatsApp konuşması yer almaktadır:
 <img width="1333" height="830" alt="Image" src="https://github.com/user-attachments/assets/10d1e630-6366-4301-8a45-54a0521628a2" />
 
-
+### Sprint Board Updates:
+<img width="1221" height="518" alt="Image" src="https://github.com/user-attachments/assets/85414c07-2f43-43c3-82db-fc39f67fae13" />
 
 ### Kullanılan Araçlar ve Kararlar:
 - Kaggle tarandı.
