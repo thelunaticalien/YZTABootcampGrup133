@@ -58,7 +58,7 @@ Bu proje, kullanıcıların kullandığı giyilebilir teknolojilerden gelen veri
 
 # Sprint 2
 
-### Sprint Başlangıcı:
+### Sprint Notları:
 İkinci sprint dönemine girerken ekip, ilk sprintte belirlenen temel fikir üzerinden ilerlemeye başladı. Ekip içi iletişim aksilikler olsa da daha fazla oturtulmaya çalışıldı. Projenin zorluğu konusunda olası senaryolar tartışıldı. Kriz senaryoları masaya yatırıldı.
 
 ### Sprint 2 Hedefleri ve Yapılanlar:
