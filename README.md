@@ -82,7 +82,9 @@ Verinin yaşam döngüsüne ait adımlar incelendi. Bu tartışmalar sonucunda y
 - Kaynak setler tartışıldı
 - Yedek projeler masaya yatırıldı.
 - Aşağıda, WhatsApp konuşması yer almaktadır:
-<img width="1333" height="830" alt="Image" src="https://github.com/user-attachments/assets/10d1e630-6366-4301-8a45-54a0521628a2" />
+<img width="1333" height="830" alt="468829718-10d1e630-6366-4301-8a45-54a0521628a2" src="https://github.com/user-attachments/assets/5035ac52-1908-4aa2-9144-c68192b9c15a" />
+  (Ders linkleri sadece akademi öğrencilerine özel olduğundan karartılmıştır.)
+
 
 ### Sprint Board Updates:
 <img width="1221" height="518" alt="Image" src="https://github.com/user-attachments/assets/85414c07-2f43-43c3-82db-fc39f67fae13" />
