@@ -34,7 +34,7 @@ Kullanıcılar uygulama üzerinden günlük tutar gibi yazılar yazar. Uygulama 
 -	Overthinking müzdaribi bireyler
 ### Juriye Gerekli Notlar:
 -	Proje içerisinde radikal bir değişikliğe gidilmiş ve fikir farklılığı yapılmıştır. Bundan sprintler farklılıklar içerir.
--	Proje içerisinde ücretli şeylerin kullanma yasağından Mintral seçilmiştir. 
+-	Proje içerisinde ücretli şeylerin kullanma yasağından Mintral modeli seçilmiştir. 
 -	Proje ilk versiyon olarak çıkarılmıştır.
 
 
