@@ -1,5 +1,42 @@
 # YZTABootcampGrup133
-Academy Bootcamp Projesi için 133 numaralı grubun proje Reposudur. Detaylara karar verdikçe gerekli güncellemeleri yapacağız.
+Academy Bootcamp Projesi için 133 numaralı grubun proje reposudur.
+
+### Takım Üyeleri:
+| İsim Soyisim | Görevi | Github | LinkedIn |
+|----------|----------|----------|----------|
+| Koray Ekici | Scrum Master / Developer | [GitHub](https://github.com/korayyekici)  | LinkedIn  |
+| Ömer İlbilgi  | Developer  | [GitHub](https://github.com/omerilbilgi)  | LinkedIn |
+| Anıl Koç  | Developer| [GitHub](https://github.com/thelunaticalien) | [LinkedIn](https://www.linkedin.com/in/theanilkoc/) |
+
+### Ürün Temsili Logo:
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/be64f1e0-6c6b-4e67-96c2-aa2d03230e6b" />
+
+
+### Ürünün İsmi:
+MoonLight Drive
+
+### Ürün Açıklaması:
+MoonLight Drive, kullanıcıların ruh halini yansıtan yazılarını analiz ederek onların duygusal durumlarını belirleyen ve buna uygun öneriler sunan bir yapay zeka destekli bir uygulamadır. 
+Kullanıcılar uygulama üzerinden günlük tutar gibi yazılar yazar. Uygulama yazılan metni analiz eder ve duygusal durumuna göre öneriler üretir. Aynı zamanda geçmiş yazılarını da kendinde tutar.
+
+### Ürün Özellikleri:
+-	Masaüstü uygulamasıdır.
+-	Duygu Analizi yapabilir
+-	Yazılarınızı kaydeder
+-	Önerilerde bulunur
+-	Genel ruh halini özetler
+### Hedef Kitle:
+-	Günlük tutma alışkanlığı olan bireyler
+-	Ruh halinin farkında olmak isteyenler
+-	Mental sağlık analizine ilgi duyan kişiler
+-	Konuşmaya ihtiyacı olan yalnız bireyler
+-	İç hesaplaşmalardan çıkamayan bireyler
+-	Overthinking müzdaribi bireyler
+### Juriye Gerekli Notlar:
+-	Proje içerisinde radikal bir değişikliğe gidilmiş ve fikir farklılığı yapılmıştır. Bundan sprintler farklılıklar içerir.
+-	Proje içerisinde ücretli şeylerin kullanma yasağından Mintral seçilmiştir. 
+-	Proje ilk versiyon olarak çıkarılmıştır.
+
 
 # Sprint 1 
 
@@ -109,4 +146,64 @@ Verinin yaşam döngüsüne ait adımlar incelendi. Bu tartışmalar sonucunda y
 - Proje olasılıklarının çözülüp teslimin yapılması
 - Video çekiminin bitirilmesi
 - Model seçilmeli ve bitirilmeli.
+
+# Sprint 3
+
+### Sprint Notları:
+Üçüncü sprinte giriş yapıldığında önceki sprintte belirlenen kriz senaryolarının yaşandığı fark edildiğinden proje içerisinde değişikliğe gidilmiştir. Giyilebilir teknolojilerin değerlendirmesi projesi yerine yapay zeka sistemimize daha uygun olan yeni bir projeye start verilmiştir. Bu değişiklik kısıtlı olan zamanımızı iyice kısıtlamıştır.
+
+### Değiştirilmiş Proje Özeti:
+Bu proje, kullanıcıların bir günlük gibi yazdığı yazıları analiz ederek onların duygusal durumlarını analiz ederek onlara tavsiyeler veren ve öneriler sunan bir sistemdir. PyQt5 ile geliştirilen masaüstü uygulama, yazıları analiz ederek duygu sınıflandırması yapar, geçmiş yazıları kaydeder ve bunlara dayalı ruh hali özetleri ve kişisel öneriler üretir. Aynı zamanda eski kayıtları da loglar.
+
+Sprint 3 Hedefleri ve Yapılanlar:
+-	Proje fikri tamamen güncellendi ve yeni kapsam belirlendi. (Tamamlandı) ✅ (30p)
+-	Grup içi iletişim ve görev dağılımı etkin şekilde yönetildi. (Tamamlandı) ✅ (20p)
+-	PYQT5 ile masaüstü arayüz tasarlandı. (Tamamlandı) ✅ (20p)
+-	Yapay Zeka Modeli seçildi (Tamamlandı) ✅ (20p)
+-	Yazı kayıt sistemi geliştirildi ve genel özet kısmı oluşturuldu. (Tamamlandı) ✅ (10p)
+-	Kullanıcı girdilerinin json formatında saklanması sağlandı (Tamamlandı) ✅ (10p)
+-	Kullanıcıya önerilerin arayüzde görünür şekilde sunulması (Tamamlandı) ✅ (15p)
+-	Kod yapısı tek dosyada toplandı (Tamamlandı) ✅ (20p)
+-	Sprint sonrası test süreci uygulandı. (Tamamlandı) ✅ (15p)
+-	Yedek yapay zeka modeli seçildi (Tamamlanmadı) (10p)
+-	Yedek dil modelleri oluşturuldu. (Tamamlanmadı) (10p)
+
+(Hedeflenen 180 puan üzerinden 160 puan tamamlanabildi.)
+
+### Sprint Review:
+Bu sprintte proje fikrinin değişiminden sonra projenin olabilecek en ideal şekli belirlendi. 
+Süre içerisinde yapılabilecek olan model araştırıldı ve işlevselliği test edildi.
+Projenin çalışabilir bir versiyonu oluşturuldu.
+
+Daily Scrum ve İletişim:
+- Günlük iletişim WhatsApp üzerinden sürdürüldü.
+- İletişim mesajlaşma yoluyla sürdürüldü.
+- Mistral Api üzerine araştırmalar yapıldı.
+- Trello ile ilerleme takibi düşünüldü.
+- Proje içerisinde herkes kendine düşen görevi yerine getirdi.
+
+
+### Sprint Board Updates:
+<img width="1151" height="453" alt="image" src="https://github.com/user-attachments/assets/dbdb05cc-83f2-42a7-98ba-cb6a41727dbd" />
+
+
+### Kullanılan Araçlar ve Kararlar:
+- Yapay zeka sistemi kullanılacak.
+- Ücretsiz yapay zeka zorunluluğundan Mistral seçildi
+- Yedek planlar içerisinden seçim yapıldı.
+- Son teslim için gereklilikler tartışıldı.
+
+### Sprint Retrospective 
+#### Ne İyi Gitti?
+- Yeni proje için bilgi birikimi olmasından hızlı gidildi.
+- Ücretsiz Yapay Zeka Dil Modeli olarak Ministri bulundu.
+- Takım içi etkileşim stabil olarak devam edildi.
+- Çalışır durumda bir proje çıkarıldı.
+#### Neler Daha İyi Olabilirdi?
+- Dil modeli çeşitliliği olabilirdi.
+- Toplantı sayısı arttırılabilirdi.
+- Proje daha dallandırılabilirdi.
+- Daha keskin testler yapılabilirdi.
+
+
 
