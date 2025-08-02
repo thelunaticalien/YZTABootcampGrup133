@@ -5,7 +5,7 @@ Academy Bootcamp Projesi için 133 numaralı grubun proje reposudur.
 | İsim Soyisim | Görevi | Github | LinkedIn |
 |----------|----------|----------|----------|
 | Koray Ekici | Scrum Master / Developer | [GitHub](https://github.com/korayyekici)  | LinkedIn  |
-| Ömer İlbilgi  | Developer  | [GitHub](https://github.com/omerilbilgi)  | LinkedIn |
+| Ömer İlbilgi  | Developer  | [GitHub](https://github.com/omerilbilgi)  | [LinkedIn](https://www.linkedin.com/in/omer-ilbilgi) |
 | Anıl Koç  | Developer| [GitHub](https://github.com/thelunaticalien) | [LinkedIn](https://www.linkedin.com/in/theanilkoc/) |
 
 ### Ürün Temsili Logo:
