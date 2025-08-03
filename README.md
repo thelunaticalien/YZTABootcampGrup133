@@ -175,7 +175,18 @@ Bu sprintte proje fikrinin değişiminden sonra projenin olabilecek en ideal şe
 Süre içerisinde yapılabilecek olan model araştırıldı ve işlevselliği test edildi.
 Projenin çalışabilir bir versiyonu oluşturuldu.
 
-Daily Scrum ve İletişim:
+#### Program Görselleri
+
+<img width="294" height="341" alt="image" src="https://github.com/user-attachments/assets/17fef2ea-6d19-45ae-ae50-d6e185170ec5" />
+
+(Ürün Açılış Görüntüsü)
+
+<img width="294" height="341" alt="GenelÖzet" src="https://github.com/user-attachments/assets/8fa4b5f6-2b12-47ff-8669-d5f17bc00d88" />
+
+(Genel tavsiye kısmı / Deneme sonuçlarından dolayı metin sansürlenmiştir)
+
+
+### Daily Scrum ve İletişim:
 - Günlük iletişim WhatsApp üzerinden sürdürüldü.
 - İletişim mesajlaşma yoluyla sürdürüldü.
 - Mistral Api üzerine araştırmalar yapıldı.
@@ -185,7 +196,6 @@ Daily Scrum ve İletişim:
 
 ### Sprint Board Updates:
 <img width="1151" height="453" alt="image" src="https://github.com/user-attachments/assets/dbdb05cc-83f2-42a7-98ba-cb6a41727dbd" />
-
 
 ### Kullanılan Araçlar ve Kararlar:
 - Yapay zeka sistemi kullanılacak.
